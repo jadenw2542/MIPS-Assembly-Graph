@@ -10,6 +10,8 @@ After completion of this assignment, you should be able to:
 
 - Write Functions and manage the call stack.
 
+- Implement breadth first search algorithm
+
 ## Getting Started
 
 To complete this homework assignment, you will need the MARS simulator. Download it from Blackboard. You can write your programs in the MARS editor itself. You can choose to use other text editors if you are not comfortable with the MARS editor. At any point, if you need to refer to instructions click on the *Help* tab in the MARS simulator.
